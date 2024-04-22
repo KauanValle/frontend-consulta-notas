@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nome_projeto": "LifeCycle",
+        "router": "/lifecycle"
+    },
+    {
+        "id": 2,
+        "nome_projeto": "Diretivas",
+        "router": "/diretivas"
+    },
+    {
+        "id": 3,
+        "nome_projeto": "Metodos",
+        "router": "/metodos"
+    },
+    {
+        "id": 4,
+        "nome_projeto": "Eventos",
+        "router": "/eventos"
+    },
+    {
+        "id": 5,
+        "nome_projeto": "Emit",
+        "router": "/emit"
+    },
+    {
+        "id": 6,
+        "nome_projeto": "Api",
+        "router": "/api"
+    }
+]
