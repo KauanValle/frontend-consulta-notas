@@ -1,13 +1,16 @@
 <template>
-  <RouterLink to="/teste">Teste</RouterLink>
+  <img alt="Vue logo" src="./assets/logo.png">
   <RouterView/>
 </template>
 
 <script>
+// import HelloWorld from './components/HelloWorld.vue'
 
 export default {
   name: 'App',
-  components: {}
+  components: {
+    
+  }
 }
 </script>
 

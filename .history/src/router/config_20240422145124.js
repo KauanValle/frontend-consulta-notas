@@ -5,7 +5,7 @@ import HelloWorld from '@/components/HelloWorld.vue';
 const routes = [
     { 
         path: '/teste', 
-        component: HelloWorld 
+        component: App 
     }
 ];
 

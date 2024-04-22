@@ -1,13 +1,15 @@
 <template>
-  <RouterLink to="/teste">Teste</RouterLink>
   <RouterView/>
 </template>
 
 <script>
+// import HelloWorld from './components/HelloWorld.vue'
 
 export default {
   name: 'App',
-  components: {}
+  components: {
+    
+  }
 }
 </script>
 

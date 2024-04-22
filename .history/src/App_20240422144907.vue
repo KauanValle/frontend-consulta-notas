@@ -1,6 +1,5 @@
 <template>
-  <RouterLink to="/teste">Teste</RouterLink>
-  <RouterView/>
+
 </template>
 
 <script>
