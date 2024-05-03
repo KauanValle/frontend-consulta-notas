@@ -1,34 +1,27 @@
-# vue-app
+# frontend-consulta-notas
 
-##### Projeto criado com intuito de simplificar a criação de um projeto Vue.js onde é utilizado o Vuex e Vue-Router.
-##### Essas dependencias já estão instaladas no projeto.
-
-
-## Project setup
+## Setup do projeto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Inicia o servidor para desenvolvimento
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compila os arquivos
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
+### Configurações customizadas
 
 ```
-The following commands were executed for this application:
+Comandos que devem ser rodados para a aplicação ser executada com sucesso:
 
 npm install vue-router
 npm install vuex@next --save
+npm install axios
+npm install -S vue-sweetalert2
 ```

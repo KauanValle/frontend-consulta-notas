@@ -1,11 +1,16 @@
+import ConsultarNFe from '@/views/ConsultarNFe.vue';
 import { createMemoryHistory, createRouter } from 'vue-router'
-import HelloWorld from '@/components/HelloWorld.vue';
+import PaginaInicial from '../views/PaginaInicial.vue';
 
 // Para criação de uma nova rota, é só criar um novo JSON seguindo a forma que está feito e passando o component, no caso, seu component.
 const routes = [
     { 
-        path: '/teste', 
-        component: HelloWorld 
+        path: '/', 
+        component: PaginaInicial 
+    },
+    { 
+        path: '/consultar-nfe', 
+        component: ConsultarNFe 
     }
 ];
 
